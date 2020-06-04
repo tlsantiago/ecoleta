@@ -1,1 +1,1 @@
-[# ecoleta] (https://tlsantiago.github.io/ecoleta/)
+[ecoleta] (https://tlsantiago.github.io/ecoleta/)
